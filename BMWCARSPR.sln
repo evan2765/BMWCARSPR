@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMWCARSPR", "BMWCARSPR.csproj", "{FB6F2A73-D2E5-4F14-81DA-A37E12EF0FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6F2A73-D2E5-4F14-81DA-A37E12EF0FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6F2A73-D2E5-4F14-81DA-A37E12EF0FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6F2A73-D2E5-4F14-81DA-A37E12EF0FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6F2A73-D2E5-4F14-81DA-A37E12EF0FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
